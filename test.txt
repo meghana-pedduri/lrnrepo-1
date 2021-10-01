@@ -1,4 +1,5 @@
 This is a test file.
 ***************************************
 This is the first change to this text file
-*****************************************
+
+Deletion of the above line
